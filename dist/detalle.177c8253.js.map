@@ -1,0 +1,1 @@
+{"mappings":"YACA,IAAIA,EAAOC,SAASC,OAAO,cAC3BC,SAASC,eAAe,QAAQC,UAAYL","sources":["src/js/app.js"],"sourcesContent":["\r\nlet date = moment().format(\"YYYY/MM/DD\");\r\ndocument.getElementById('date').innerHTML = date;\r\n"],"names":["$7e6258f3559d0f34$var$date","moment","format","document","getElementById","innerHTML"],"version":3,"file":"detalle.177c8253.js.map"}
